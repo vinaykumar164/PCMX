@@ -1,0 +1,27 @@
+menu.ts line 35
+
+app.routing.ts 26
+
+app.module.ts 93
+
+
+rcm-login.module.ts (remove three)
+
+claims.components.html (89 , 90)
+
+
+icon move left and up
+----------------------
+<div class="col-sm-2" style="margin-left: 6%;margin-bottom: 10px;  cursor: pointer" (click)="toggleCard()">
+            <img src="../../../../assets/rbg.png" class="top-left-image"
+                style="width: 35px; height: 35px; margin-top: -23%; margin-left: 40px" />
+        </div>
+
+rcm-payments.component.html 
+
+87 line -3.3
+
+rcm-funds.component.html (53 to 56)
+
+rcm-intake.component.html new
+
